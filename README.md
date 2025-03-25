@@ -7,6 +7,7 @@ node seed.js
 ```
 backend/
 │
+│
 ├── .env # Variables de entorno (por ejemplo, URL de MongoDB)
 ├── server.js # Archivo principal donde se inicia el servidor Express
 ├── models/ # Carpeta para modelos Mongoose
